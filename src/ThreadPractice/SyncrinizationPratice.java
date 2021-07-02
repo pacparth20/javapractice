@@ -19,7 +19,7 @@ public class SyncrinizationPratice {
 //		
 //		 = exe.submit(new callTable());
 //		exe.submit(new callTable());
-
+		
 		callTable ct1 = new callTable();
 
 		callTable ct2 = new callTable();
